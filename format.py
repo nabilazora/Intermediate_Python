@@ -17,18 +17,18 @@
 # print(firstOder.format(quantity, itemNumber, price))
 
 # Using index numbers
-quantity = 5
-itemNumber = 50
-price = 24
-firstOder = "We want {0} pieces of item number {1} for {2:.2f} dollars."
+# quantity = 5
+# itemNumber = 50
+# price = 24
+# firstOder = "We want {0} pieces of item number {1} for {2:.2f} dollars."
 
-print(firstOder.format(quantity, itemNumber, price))
+# print(firstOder.format(quantity, itemNumber, price))
 
-age = 45
-name = "Jack"
-newTxt = "The name is {1}. {1} is {0} years old."
+# age = 45
+# name = "Jack"
+# newTxt = "The name is {1}. {1} is {0} years old."
 
-print(newTxt.format(age, name))
+# print(newTxt.format(age, name))
 
 # Using named indexes by entering a name inside the curly brackets
 newOrder = "I have a {car}, it is a {model}"
